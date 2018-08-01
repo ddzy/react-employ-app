@@ -1,0 +1,76 @@
+
+
+.error-msg {
+  padding-left: 10px;
+  color: #fff;
+  line-height: 40px;
+  background-color: #f50;
+  text-align: center;
+}
+
+.prefect-infobtn {
+  margin-top: 40px;
+}
+
+.am-navbar {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  width: 100%;
+}
+
+.nav-margin {
+  margin-top: 45px;
+}
+
+.tab-bar-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.am-tab-bar {
+  position: fixed;
+  z-index: 999;
+  bottom: 0;
+  width: 100%;
+  height: auto !important;
+}
+
+.me-avatar-img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+/*
+  聊天信息
+*/
+#chat-page .chat-me .am-list-extra {
+  flex-basis: auto;
+}
+
+#chat-page .chat-me .am-list-content {
+  padding-right: 15px;
+  text-align: right;
+}
+
+#chat-page .am-grid-icon {
+  display: none;
+}
+
+#chat-page .am-grid-text {
+  margin-top: 0;
+}
+
+.stick-footer {
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  width: 100%;
+  letter-spacing: 12px;
+}
+
+.stick-footer-send {
+  color: #00ae9d;
+}
+
+
