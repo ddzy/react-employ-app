@@ -10,11 +10,14 @@
 ### 安装依赖
 ```
 npm install
+npm install -g nodemon
 ```
 
-### 启动项目
+### 启动项目 & 服务器
 ```
 npm start
+
+cd server & nodemon server.js
 ```
 
 ### 打包上线
